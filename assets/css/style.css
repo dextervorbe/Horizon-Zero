@@ -61,11 +61,13 @@ p {
     background-position: center;
 }
 
+/* This is the reason why one of the images is displayed on the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* this is the reason why one of the iamges is displayed on the right */
 .float-right {
     float: right;
     margin-left: 25px;
